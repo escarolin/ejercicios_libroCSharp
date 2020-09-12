@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "capi1/1.0.0": {
+        "runtime": {
+          "capi1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capi1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "capi1/1.0.0": {
+        "runtime": {
+          "capi1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capi1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> f57685fa5d561d181bd1db69631bda8267747794
+}

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi2\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache

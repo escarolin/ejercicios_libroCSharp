@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.exe
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.deps.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.dll
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.pdb
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.dll
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.pdb
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.genruntimeconfig.cache
+=======
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.exe
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.deps.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.dll
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\bin\Debug\netcoreapp3.1\ejerc4.pdb
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.dll
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.pdb
+C:\Users\Lenovo\source\repos\ejercicios_libroCSharp\capi3\ejerc4\obj\Debug\netcoreapp3.1\ejerc4.genruntimeconfig.cache
+>>>>>>> f57685fa5d561d181bd1db69631bda8267747794
